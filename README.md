@@ -15,3 +15,8 @@ Screenshots:
 Full Sized About me Page 
 
 ![Alt text](/screenshots/large_index.PNG "Large Index")
+
+
+Small Sized About me Page
+
+![Alt text](/screenshots/large_index.PNG "Large Index")
