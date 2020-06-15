@@ -9,3 +9,9 @@ Repo: https://github.com/MCui1997/Responsiveness-Portfolio
 
 Site: https://mcui1997.github.io/Responsiveness-Portfolio/
 
+
+Screenshots:
+
+Full Sized About me Page 
+
+![Alt text](/screenshots/index_small "Small Index")
