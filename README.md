@@ -10,7 +10,7 @@ Repo: https://github.com/MCui1997/Responsiveness-Portfolio
 Site: https://mcui1997.github.io/Responsiveness-Portfolio/
 
 
-Screenshots:
+Screenshots of Responsive Behavior:
 
 Full Sized About me Page 
 
@@ -19,4 +19,4 @@ Full Sized About me Page
 
 Small Sized About me Page
 
-![Alt text](/screenshots/large_index.PNG "Large Index")
+![Alt text](/screenshots/small_index.PNG "Small Index")
