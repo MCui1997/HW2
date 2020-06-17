@@ -14,9 +14,9 @@ Screenshots of Responsive Behavior:
 
 Full Sized About me Page 
 
-![Alt text](/screenshots/large_index.PNG "Large Index")
+![Alt text](/screenshots/large_portfolio.PNG "Large Portfolio")
 
 
 Small Sized About me Page
 
-![Alt text](/screenshots/small_index.PNG "Small Index")
+![Alt text](/screenshots/small_portfolio.PNG "Small Portfolio")
